@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "dev": "expo start"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.0",
+    "expo": "^49.0.0",
+    "expo-cli": "^6.3.10",
+    "react-native-url-polyfill": "^2.0.0"
+  }
+}
